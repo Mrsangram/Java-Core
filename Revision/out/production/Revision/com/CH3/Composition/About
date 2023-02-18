@@ -1,0 +1,3 @@
+Write a program that prints the total number og words of a Book. the Book Class has inner
+class Page .Book has number of pages.Page class have an array of lines.Every element of this linus array
+stores number of word of that  line.

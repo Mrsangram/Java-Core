@@ -1,0 +1,10 @@
+WAP that simulate the shopping card  for the operation
+
+1. Add item
+2.Remove item
+3.Display the total bill for all items add
+4.Exit
+
+
+It allows the customer to add/remove the shopping items in the cart Finally display the total bill for items selected by
+customer .
